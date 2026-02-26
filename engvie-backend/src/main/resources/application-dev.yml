@@ -1,0 +1,9 @@
+telegram:
+  mock-auth: true
+
+logging:
+  level:
+    com.engvie: DEBUG
+    org.springframework.web.socket: DEBUG
+    org.springframework.messaging: DEBUG
+    org.springframework.security: DEBUG
